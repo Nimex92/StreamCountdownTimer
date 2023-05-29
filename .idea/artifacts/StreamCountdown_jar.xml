@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StreamCountdown:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StreamCountdown_jar</output-path>
+    <root id="archive" name="StreamCountdown.jar">
+      <element id="module-output" name="StreamCountdown" />
+    </root>
+  </artifact>
+</component>
